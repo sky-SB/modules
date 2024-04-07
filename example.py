@@ -1,6 +1,4 @@
-# name: example
-# version: 1.0.5
-# requirements: example, example2
+# required: googletrans
 import utils
 from discord.ext import commands as skySB
 
